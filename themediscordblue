@@ -36,9 +36,9 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 :root {
   --backgroundColor01: #1e2731;
   --backgroundColor02: #12171d;
-  --mainColor: #99DF70;
-  --gradientColor01: #92E8A0;
-  --gradientColor02: #26C946;
+  --mainColor: #2D33EA;
+  --gradientColor01: #4B4EB6;
+  --gradientColor02: #0A179B;
 
   /* Better Hljs */
   --backgroundCode: #1e2731;
