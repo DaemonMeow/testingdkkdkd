@@ -36,7 +36,7 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 :root {
   --backgroundColor01: #1e2731;
   --backgroundColor02: #12171d;
-  --mainColor: #89FF45;
+  --mainColor: #99DF70;
   --gradientColor01: #92E8A0;
   --gradientColor02: #26C946;
 
